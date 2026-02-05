@@ -12,7 +12,7 @@ This dashboard enables stakeholders to transition from reactive churn tracking t
 
 ## 🖼️ Dashboard Preview
 
- ![Customer Churn Dashboard](churn dashboard.png)
+ ![Customer Churn Dashboard](dashboard_preview.png)
 
 ---
 
