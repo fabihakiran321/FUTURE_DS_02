@@ -1,8 +1,8 @@
-# 📊 Customer Churn Analysis Dashboard
+# 📊 Customer Churn Analysis 
 
 ## 📖 Project Overview
 
-This project presents a comprehensive **Customer Churn Analysis Dashboard** built using **Microsoft Power BI** to analyze customer retention behavior and identify churn drivers within a telecommunications business dataset.
+This project presents a comprehensive **Customer Churn Analysis ** built using **Microsoft Power BI** to analyze customer retention behavior and identify churn drivers within a telecommunications business dataset.
 
 The dashboard evaluates **7,043 customers** and examines churn patterns across multiple dimensions such as contract type, tenure, service adoption, billing behavior, and customer demographics. The analysis transforms raw customer data into actionable insights that help organizations proactively reduce churn and improve long-term customer retention.
 
@@ -11,7 +11,7 @@ This dashboard enables stakeholders to transition from reactive churn tracking t
 ---
 
 ## 🖼️ Dashboard Preview
-
+![Customer Churn Dashboard](churn_dashboard.png)
 
 ---
 
